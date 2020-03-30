@@ -1,0 +1,15 @@
+Lucas Monteiro:
+  name                  : "Lucas Monteiro de Oliveira"
+  avatar                : "/assets/images/bio-photo.jpg"
+  bio                   : "Cyber Security Analyst and Machine Learning Enthusiast."
+  location              : "São Paulo, Brazil"
+  links:
+    - label                 : "Email"
+      icon                  : "fas fa-fw fa-envelope-square"
+      url                   : "mailto:lumonoli@hotmail.com"
+    - label                 : "LinkedIn"
+      icon                  : "fab fa-fw fa-linkedin"
+      url                   : "https://www.linkedin.com/in/lucasmonteirodeoliveira"
+    - label                 : "GitHub"
+      icon                  : "fab fa-fw fa-github"
+      url                   : "https://github.com/monolli"
