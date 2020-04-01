@@ -20,11 +20,12 @@ minimal_mistakes_skin   : default
 locale                  : "en"
 title                   : "Lucas Monteiro de Oliveira"
 canonical_url           : "https://monolli.com"
+url                     : "https://monolli.com"
 title_separator         : "|"
-# logo                    : "/assets/images/88x88.png"
+# logo                    : "/assets/images/88x88.svg"
 masthead_title          : "Lucas Monteiro de Oliveira"
 subtitle                : "Building value out of data"
-description             : "Cyber Security Analyst and Machine Learning Enthusiast."
+description             : "A Cyber Security Analyst and Machine Learning Enthusiast."
 yourself                : "https://www.monolli.com"
 email                   : lumonoli@hotmail.com
 twitter_username        : # username
@@ -49,8 +50,8 @@ repository              : monolli/monolli.github.io
 
 # Outputting
 permalink               : /:categories/:title/
-paginate                : 5 # amount of posts to show
-paginate_path           : /home/page:num/
+paginate                : 10 # amount of posts to show
+paginate_path           : /blog/page:num/
 timezone                : # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
