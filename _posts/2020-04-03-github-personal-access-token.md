@@ -6,7 +6,7 @@ categories:
   - Blog
 ---
 
-Yesterday a finally configured the multi-factor authentication (MFA) for my GitHub account, "better late than never", and as soon as tried to push some code I received an "authentication failed" message. And it makes sense, I added a second authentication step.
+Yesterday I finally configured the multi-factor authentication (MFA) for my GitHub account, "better late than never", and as soon as tried to push some code I received an "authentication failed" message. And it makes sense, I added a second authentication step.
 
 Long story short, in order to continue using Git on the command line they suggest the usage of a "GitHub Personal Access Token" in place of the password. The problem then is that it should be treated as a password and you don't want to memorize a 40-byte token. It sounds tricky, but don't worry, there is a light at the end of this non-SSH tunnel (we will use HTTPS).
 
